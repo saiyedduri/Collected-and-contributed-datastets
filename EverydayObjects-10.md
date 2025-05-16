@@ -23,3 +23,11 @@ Under these specific conditions, an image database is created with a total of **
 | Std (R, G, B)      | (0.2285, 0.2215, 0.2254)        |
 
 ![Figure 1: Distribution of images per class](objects_class_distribution.png)
+
+
+<p align="center">
+  <img src="objects_class_distribution.png" alt="Distribution of images per class" width="600"/>
+</p>
+
+<p align="center"><em>Figure 1: Distribution of images per class.</em></p>
+
