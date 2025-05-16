@@ -22,8 +22,7 @@ Under these specific conditions, an image database is created with a total of **
 | Mean (R, G, B)     | (0.5285, 0.4851, 0.4376)        |
 | Std (R, G, B)      | (0.2285, 0.2215, 0.2254)        |
 
-![Figure 1: Distribution of images per class](objects_class_distribution.png)
-
+## Distribution of the classes: 
 
 <p align="center">
   <img src="objects_class_distribution.png" alt="Distribution of images per class" width="600"/>
